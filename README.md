@@ -84,8 +84,8 @@ A curated list of related resources for binary neural network.
 ### 2024 CVPR
 [\[back to top\]](#contents)
 
-"##### • A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network.[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.pdf)
-_Ruichen Ma, Guanchao Qiao, Yian Liu, Liwei Meng, Ning Ning, Yang Liu, Shaogang Hu_"
+##### • A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network.[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.pdf)
+_Ruichen Ma, Guanchao Qiao, Yian Liu, Liwei Meng, Ning Ning, Yang Liu, Shaogang Hu_
 
 
 
