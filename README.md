@@ -9,7 +9,7 @@ A curated list of related resources for binary neural network.
   - [Evaluation](#evaluation)
   - [arXiv Papers](#arxiv-papers)
   - [Journal Papers](#journal-papers)
-    - [TPAMI / IJCV](#tpami--ijcv)
+    - [TPAMI](#tpami), [IJCV](#ijcv)
     - [Others](#other-journals)
   - [Conference Papers](#conference-papers)
     - 2025: [Others](#2025-others)
@@ -28,7 +28,6 @@ A curated list of related resources for binary neural network.
   - [Challenges](#challenges)
   - [Other Related Papers](#other-related-papers)
 
-
 ## The Task
 
 ## Applications
@@ -36,3 +35,5 @@ A curated list of related resources for binary neural network.
 ## Surveys \& Workshop \& Tutorials
 
 ## Paper List
+
+### Evaluation
