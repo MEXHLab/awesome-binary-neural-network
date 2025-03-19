@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ec943751-7e23-410c-a2e7-e097b8657a77)# Awesome Binary Neural Network
+# Awesome Binary Neural Network
 A curated list of related resources for binary neural network.
 
 ## Table of Contents
@@ -86,7 +86,18 @@ A curated list of related resources for binary neural network.
 
 ##### • A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network.[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.pdf)
 _Ruichen Ma, Guanchao Qiao, Yian Liu, Liwei Meng, Ning Ning, Yang Liu, Shaogang Hu_
-
+##### • BiPer: Binary Neural Networks Using a Periodic Function. [\[PDF\]](http://openaccess.thecvf.com/content/CVPR2024/papers/Vargas_BiPer_Binary_Neural_Networks_using_a_Periodic_Function_CVPR_2024_paper.pdf)[\[Code\]](https://github.com/edmav4/BiPer.)
+_Edwin Vargas, Claudia V. Correa, Carlos Hinojosa, Henry Arguello_
+##### • Efficient Multitask Dense Predictor via Binarization.[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Shang_Efficient_Multitask_Dense_Predictor_via_Binarization_CVPR_2024_paper.pdf)[\[Code\]](https://github.com/42Shawn/BiMTDP)
+_Yuzhang Shang, Dan Xu, Gaowen Liu, Ramana Rao Kompella, Yan Yan_
+##### • Binarized Low-Light Raw Video Enhancement. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Binarized_Low-light_Raw_Video_Enhancement_CVPR_2024_paper.pdf)[\[Code\]](https://github.com/ying-fu/BRVE)
+_Gengchen Zhang, Yulun Zhang, Xin Yuan, Ying Fu_
+##### • Dedicated Inference Engine and Binary-Weight Neural Networks for Lightweight Instance Segmentation.[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Chen_Dedicated_Inference_Engine_and_Binary-Weight_Neural_Networks_for_Lightweight_Instance_CVPRW_2024_paper.pdf)
+_Tse-Wei Chen, Wei Tao, Dongyue Zhao, Kazuhiro Mima, Tadayuki Ito, Kinya Osa, Masami Kato_"
+##### • Pruning as a Binarization Technique.[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2024W/EVW/papers/Frickenstein_Pruning_as_a_Binarization_Technique_CVPRW_2024_paper.pdf)
+_Lukas Frickenstein, Pierpaolo Mori, Shambhavi Balamuthu Sampath, Moritz Thoma, Nael Fasfous, Manoj Rohit Vemparala, Alexander Frickenstein, Christian Unger, Claudio Passerone, Walter Stechele_
+##### • Faster Than Lies: Real-time Deepfake Detection using Binary Neural Networks. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2024W/DFAD/papers/Lanzino_Faster_Than_Lies_Real-time_Deepfake_Detection_using_Binary_Neural_Networks_CVPRW_2024_paper.pdf)
+_Romeo Lanzino, Federico Fontana, Anxhelo Diko, Marco Raoul Marini, Luigi Cinque_
 
 
 ### 2024 ECCV
@@ -263,6 +274,10 @@ _Ruichen Ma, Guanchao Qiao, Yian Liu, Liwei Meng, Ning Ning, Yang Liu, Shaogang 
 -----------------------------------------------------
 ### 2016 CVPR
 [\[back to top\]](#contents)
+
+##### • Fast Image Gradients Using Binary Feature Convolutions.[\[PDF\]](https://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w24/papers/St-Charles_Fast_Image_Gradients_CVPR_2016_paper.pdf)
+_Pierre-Luc St-Charles, Guillaume-Alexandre Bilodeau, Robert Bergevin_
+
 
 ### 2016 ECCV
 [\[back to top\]](#contents)
