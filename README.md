@@ -13,15 +13,15 @@ A curated list of related resources for binary neural network.
     - [Others](#other-journals)
   - [Conference Papers](#conference-papers)
     - 2025: [Others](#2025-others)
-    - 2024: [CVPR](#2024-cvpr), [ECCV](#2024-eccv), [NeurIPS](#2024-neurips)，[ICML](#2024-icml)，[Others](#2024-others)
-    - 2023: [CVPR](#2023-cvpr), [ICCV](#2023-iccv), [NeurIPS](#2023-neurips)，[ICML](#2023-icml)，[Others](#2023-others)
-    - 2022: [CVPR](#2022-cvpr), [ECCV](#2022-eccv), [NeurIPS](#2022-neurips)，[ICML](#2022-icml)，[Others](#2022-others)
-    - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv), [NeurIPS](#2021-neurips)，[ICML](#2021-icml)，[Others](#2021-others)
-    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [NeurIPS](#2020-neurips)，[ICML](#2020-icml)，[Others](#2020-others)
-    - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [NeurIPS](#2019-neurips)，[ICML](#2019-icml)，[Others](#2019-others)
-    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [NeurIPS](#2018-neurips)，[ICML](#2018-icml)，[Others](#2018-others)
-    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [NeurIPS](#2017-neurips)，[ICML](#2017-icml)，[Others](#2017-others)
-    - 2016: [CVPR](#2016-cvpr), [ECCV](#2016-eccv), [NeurIPS](#2016-neurips)，[ICML](#2016-icml)，[Others](#2016-others)
+    - 2024: [CVPR](#2024-cvpr), [ECCV](#2024-eccv), [NeurIPS](#2024-neurips)，[ICML](#2024-icml), [AAAI](#2024-aaai), [IJCAI](#2024-ijcai)，[Others](#2024-others)
+    - 2023: [CVPR](#2023-cvpr), [ICCV](#2023-iccv), [NeurIPS](#2023-neurips)，[ICML](#2023-icml), [AAAI](#2024-aaai), [IJCAI](#2024-ijcai)，[Others](#2023-others)
+    - 2022: [CVPR](#2022-cvpr), [ECCV](#2022-eccv), [NeurIPS](#2022-neurips)，[ICML](#2022-icml), [AAAI](#2024-aaai), [IJCAI](#2024-ijcai)，[Others](#2022-others)
+    - 2021: [CVPR](#2021-cvpr), [ICCV](#2021-iccv), [NeurIPS](#2021-neurips)，[ICML](#2021-icml), [AAAI](#2024-aaai), [IJCAI](#2024-ijcai)，[Others](#2021-others)
+    - 2020: [CVPR](#2020-cvpr), [ECCV](#2020-eccv), [NeurIPS](#2020-neurips)，[ICML](#2020-icml), [AAAI](#2024-aaai), [IJCAI](#2024-ijcai)，[Others](#2020-others)
+    - 2019: [CVPR](#2019-cvpr), [ICCV](#2019-iccv), [NeurIPS](#2019-neurips)，[ICML](#2019-icml), [AAAI](#2024-aaai), [IJCAI](#2024-ijcai)，[Others](#2019-others)
+    - 2018: [CVPR](#2018-cvpr), [ECCV](#2018-eccv), [NeurIPS](#2018-neurips)，[ICML](#2018-icml), [AAAI](#2024-aaai), [IJCAI](#2024-ijcai)，[Others](#2018-others)
+    - 2017: [CVPR](#2017-cvpr), [ICCV](#2017-iccv), [NeurIPS](#2017-neurips)，[ICML](#2017-icml), [AAAI](#2024-aaai), [IJCAI](#2024-ijcai)，[Others](#2017-others)
+    - 2016: [CVPR](#2016-cvpr), [ECCV](#2016-eccv), [NeurIPS](#2016-neurips)，[ICML](#2016-icml), [AAAI](#2024-aaai), [IJCAI](#2024-ijcai)，[Others](#2016-others)
     - 2015: [Others & Before](#2015-others--before)
   - [Theses](#theses)
   - [Workshops](#workshops)
@@ -36,52 +36,244 @@ A curated list of related resources for binary neural network.
 
 ## Paper List
 ----------------------------------------------------------
-### Evaluation
+## Evaluation
 [\[back to top\]](#contents)
 
 ----------------------------------------------------------
-### arXiv Papers
+## arXiv Papers
 [\[back to top\]](#contents)
 
 =========================================================
 
-### Journal Papers
+## Journal Papers
 [\[back to top\]](#contents)
 
-#### TPAMI
+### TPAMI
 [\[back to top\]](#contents)
 
-#### IJCV
+### IJCV
 [\[back to top\]](#contents)
 
-#### Others
+### Others
 [\[back to top\]](#contents)
 
 =============================================================
 
-### Conference Papers
+## Conference Papers
 [\[back to top\]](#contents)
 
-#### 2025-others
+### 2025-others
 [\[back to top\]](#contents)
 
-#### 2024-cvpr
+-------------------------------------------------------
+### 2024 CVPR
 [\[back to top\]](#contents)
 
-#### 2024-neurips
+### 2024 ECCV
 [\[back to top\]](#contents)
 
+### 2024 NeurIPS
+[\[back to top\]](#contents)
+
+### 2024 ICML
+[\[back to top\]](#contents)
+
+### 2024 AAAI
+[\[back to top\]](#contents)
+
+### 2024 IJCAI
+[\[back to top\]](#contents)
+
+### 2024 Others
+[\[back to top\]](#contents)
+
+-----------------------------------------------------
+### 2023 CVPR
+[\[back to top\]](#contents)
+
+### 2023 ECCV
+[\[back to top\]](#contents)
+
+### 2023 NeurIPS
+[\[back to top\]](#contents)
+
+### 2023 ICML
+[\[back to top\]](#contents)
+
+### 2023 AAAI
+[\[back to top\]](#contents)
+
+### 2023 IJCAI
+[\[back to top\]](#contents)
+
+### 2023 Others
+[\[back to top\]](#contents)
+-------------------------------------------------------
+### 2022 CVPR
+[\[back to top\]](#contents)
+
+### 2022 ECCV
+[\[back to top\]](#contents)
+
+### 2022 NeurIPS
+[\[back to top\]](#contents)
+
+### 2022 ICML
+[\[back to top\]](#contents)
+
+### 2022 AAAI
+[\[back to top\]](#contents)
+
+### 2022 IJCAI
+[\[back to top\]](#contents)
+
+### 2022 Others
+[\[back to top\]](#contents)
+
+-----------------------------------------------------
+### 2021 CVPR
+[\[back to top\]](#contents)
+
+### 2021 ECCV
+[\[back to top\]](#contents)
+
+### 2021 NeurIPS
+[\[back to top\]](#contents)
+
+### 2021 ICML
+[\[back to top\]](#contents)
+
+### 2021 AAAI
+[\[back to top\]](#contents)
+
+### 2021 IJCAI
+[\[back to top\]](#contents)
+
+### 2021 Others
+[\[back to top\]](#contents)
+
+-----------------------------------------------------
+### 2020 CVPR
+[\[back to top\]](#contents)
+
+### 2020 ECCV
+[\[back to top\]](#contents)
+
+### 2020 NeurIPS
+[\[back to top\]](#contents)
+
+### 2020 ICML
+[\[back to top\]](#contents)
+
+### 2020 AAAI
+[\[back to top\]](#contents)
+
+### 2020 IJCAI
+[\[back to top\]](#contents)
+
+### 2020 Others
+[\[back to top\]](#contents)
+
+-----------------------------------------------------
+### 2019 CVPR
+[\[back to top\]](#contents)
+
+### 2019 ECCV
+[\[back to top\]](#contents)
+
+### 2019 NeurIPS
+[\[back to top\]](#contents)
+
+### 2019 ICML
+[\[back to top\]](#contents)
+
+### 2019 AAAI
+[\[back to top\]](#contents)
+
+### 2019 IJCAI
+[\[back to top\]](#contents)
+
+### 2019 Others
+[\[back to top\]](#contents)
+
+-----------------------------------------------------
+### 2018 CVPR
+[\[back to top\]](#contents)
+
+### 2018 ECCV
+[\[back to top\]](#contents)
+
+### 2018 NeurIPS
+[\[back to top\]](#contents)
+
+### 2018 ICML
+[\[back to top\]](#contents)
+
+### 2018 AAAI
+[\[back to top\]](#contents)
+
+### 2018 IJCAI
+[\[back to top\]](#contents)
+
+### 2018 Others
+[\[back to top\]](#contents)
+
+-----------------------------------------------------
+### 2017 CVPR
+[\[back to top\]](#contents)
+
+### 2017 ECCV
+[\[back to top\]](#contents)
+
+### 2017 NeurIPS
+[\[back to top\]](#contents)
+
+### 2017 ICML
+[\[back to top\]](#contents)
+
+### 2017 AAAI
+[\[back to top\]](#contents)
+
+### 2017 IJCAI
+[\[back to top\]](#contents)
+
+### 2017 Others
+[\[back to top\]](#contents)
+
+-----------------------------------------------------
+### 2016 CVPR
+[\[back to top\]](#contents)
+
+### 2016 ECCV
+[\[back to top\]](#contents)
+
+### 2016 NeurIPS
+[\[back to top\]](#contents)
+
+### 2016 ICML
+[\[back to top\]](#contents)
+
+### 2016 AAAI
+[\[back to top\]](#contents)
+
+### 2016 IJCAI
+[\[back to top\]](#contents)
+
+### 2016 Others
+[\[back to top\]](#contents)
+
+-----------------------------------------------------
 =================================================
-### Theses
+## Theses
 [\[back to top\]](#contents)
 
-### Workshops
+## Workshops
 [\[back to top\]](#contents)
 
-### Challenges
+## Challenges
 [\[back to top\]](#contents)
 
-### Other Related Papers
+## Other Related Papers
 [\[back to top\]](#contents)
 
 
