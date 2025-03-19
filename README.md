@@ -1,4 +1,4 @@
-# Awesome Binary Neural Network
+![image](https://github.com/user-attachments/assets/ec943751-7e23-410c-a2e7-e097b8657a77)# Awesome Binary Neural Network
 A curated list of related resources for binary neural network.
 
 ## Table of Contents
@@ -83,6 +83,11 @@ A curated list of related resources for binary neural network.
 -------------------------------------------------------
 ### 2024 CVPR
 [\[back to top\]](#contents)
+
+"##### • A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network.[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.pdf)
+_Ruichen Ma, Guanchao Qiao, Yian Liu, Liwei Meng, Ning Ning, Yang Liu, Shaogang Hu_"
+
+
 
 ### 2024 ECCV
 [\[back to top\]](#contents)
