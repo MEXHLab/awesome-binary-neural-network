@@ -9,7 +9,7 @@ A curated list of related resources for binary neural network.
   - [Evaluation](#evaluation)
   - [arXiv Papers](#arxiv-papers)
   - [Journal Papers](#journal-papers)
-    - [TPAMI](#tpami), [IJCV](#ijcv)
+    - [TPAMI](#tpami), [TNNLS](#tnnls), [IJCV](#ijcv)
     - [Others](#other-journals)
   - [Conference Papers](#conference-papers)
     - 2025: [Others](#2025-others)
@@ -51,8 +51,125 @@ A curated list of related resources for binary neural network.
 ### TPAMI
 [\[back to top\]](#contents)
 
+##### • Learning Deep Binary Descriptor with Multi-Quantization.[\[PDF\]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Duan_Learning_Deep_Binary_CVPR_2017_paper.pdf)
+_Yueqi Duan, Jiwen Lu, Ziwei Wang, Jianjiang Feng, Jie Zhou_
+
+##### • Towards Efficient U-Nets: A Coupled and Quantized Approach.[\[PDF\]](https://ieeexplore.ieee.org/ielaam/34/9130977/8674614-aam.pdf)
+_Zhiqiang Tang, Xi Peng, Kang Li, Dimitris N. Metaxas_
+
+##### • Learning Channel-Wise Interactions for Binary Convolutional Neural Networks.[\[PDF\]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Channel-Wise_Interactions_for_Binary_Convolutional_Neural_Networks_CVPR_2019_paper.pdf)
+_Ziwei Wang, Jiwen Lu, Chenxin Tao, Jie Zhou, Qi Tian_
+
+##### • Effective Training of Convolutional Neural Networks With Low-Bitwidth Weights and Activations.[\[PDF\]](https://arxiv.org/pdf/1908.04680)
+_Bohan Zhuang, Mingkui Tan, Jing Liu, Lingqiao Liu, Ian Reid, Chunhua Shen_
+
+##### • Gradient Matters: Designing Binarized Neural Networks via Enhanced Information-Flow.[\[PDF\]]()
+_Qi Wang, Nianhui Guo, Zhitong Xiong, Zeping Yin, Xuelong Li_
+
+##### • Learning Efficient Binarized Object Detectors With Information Compression. [\[PDF\]](https://drive.google.com/file/d/1WARisQYcZzSrQHI23ESoasb7NpQ7e1NZ/view)
+_Ziwei Wang, Jiwen Lu, Ziyi Wu, Jie Zhou_
+
+##### • Optimization-Based Post-Training Quantization With Bit-Split and Stitching. [\[PDF\]](https://drive.google.com/file/d/1nSLQjMlGaAsOfGU1GNRQ24yZdmG16IDi/view)
+_Peisong Wang, Weihan Chen, Xiangyu He, Qiang Chen, Qingshan Liu, Jian Cheng_
+
+##### • SiMaN: Sign-to-Magnitude Network Binarization. [\[PDF\]](https://arxiv.org/pdf/2102.07981)
+_Mingbao Lin, Rongrong Ji, Zihan Xu, Baochang Zhang, Fei Chao, Chia-Wen Lin, Ling Shao_
+
+##### • Binary Graph Convolutional Network With Capacity Exploration.[\[PDF\]](https://arxiv.org/pdf/2210.13149)
+_Junfu Wang, Yuanfang Guo ,Liang Yang, Yunhong Wang_
+
+### TNNLS
+[\[back to top\]](#contents)
+
+##### • A Telescopic Binary Learning Machine for Training Neural Networks. [\[PDF\]](https://arxiv.org/pdf/1509.00174)
+_Mauro Brunato, Roberto Battiti_
+
+##### • A Squeezed Artificial Neural Network for the Symbolic Network Reliability Functions of Binary-State Networks.[\[PDF\]]()
+_Wei-Chang Yeh_
+
+##### • Distillation-Guided Residual Learning for Binary Convolutional Neural Networks. [\[PDF\]](https://arxiv.org/pdf/2007.05223)
+_Jianming Ye, Jingdong Wang, Shiliang Zhang_
+
+##### • Low-Latency In Situ Image Analytics With FPGA-Based Quantized Convolutional Neural Network.[\[PDF\]](https://ieeexplore.ieee.org/iel7/5962385/9816060/09321210.pdf)
+__
+
+##### • Extremely Sparse Networks via Binary Augmented Pruning for Fast Image Classification. [\[PDF\]]()
+_Peisong Wang, Fanrong Li, Gang Li, Jian Cheng_
+
+##### • Discrete Robust Principal Component Analysis via Binary Weights Self-Learning.[\[PDF\]]()
+_Feiping Nie, Sisi Wang, Zheng Wang, Rong Wang, Xuelong Li_
+
+##### • Toward Accurate Binarized Neural Networks With Sparsity for Mobile Application.[\[PDF\]](https://drive.google.com/file/d/14NGNV01xH1P21i788EG2S_crFUTixxxR/view)
+_Peisong Wang, Xiangyu He, Jian Cheng_
+
+##### • Self-Growing Binary Activation Network: A Novel Deep Learning Model With Dynamic Architecture.[\[PDF\]]()
+_Zeyang Zhang, Yidong Chen, Changle Zhou_
+
+##### • Toward Pixel-Level Precision for Binary Super-Resolution With Mixed Binary Representation.[\[PDF\]]()
+_Xinrui Jiang, Nannan Wang, Jingwei Xin, Keyu Li, Xi Yang, Jie Li, Xinbo Gao_
+
+##### • Local Means Binary Networks for Image Super-Resolution.[\[PDF\]](https://drive.google.com/file/d/14Rtz6uGpmKIhSrJf1lK1dBT_qobH-NG8/view)
+_Keyu Li , Nannan Wang , Jingwei Xin, Xinrui Jiang, Jie Li,_
+
+##### • BiFSMNv2: Pushing Binary Neural Networks for Keyword Spotting to Real-Network Performance.[\[PDF\]](https://arxiv.org/pdf/2211.06987)
+_Haotong Qin, Xudong Ma, Yifu Ding, Xiaoyang Li, Yang Zhang, Zejun Ma, Jiakai Wang, Jie Luo, Xianglong Liu_
+
+##### • PSAQ-ViT V2: Toward Accurate and General Data-Free Quantization for Vision Transformers.[\[PDF\]](https://arxiv.org/pdf/2209.05687)
+_Zhikai Li, Mengjuan Chen, Junrui Xiao, Qingyi Gu_
+
+##### • Accelerating Convolutional Neural Network-Based Hyperspectral Image Classification by Step Activation Quantization.[\[PDF\]]()
+_Shaohui Mei, Xiaofeng Chen, Yifan Zhang, Jun Li, Antonio Plaza_
+
+##### • Ulit-BiDet: An Ultralightweight Object Detector for SAR Images Based on Binary Neural Networks. [\[PDF\]]()
+_Han Pu, Zhengwen Zhu, Qi Hu, Dong Wang_
+
+##### • CSA-Net: An Adaptive Binary Neural Network and Application on Remote Sensing Image Classification.[\[PDF\]]()
+_Weifeng Gao, Menghao Tan, Hong Li, Jin Xie, Xiaoli Gao, Maoguo Gong_
+
+##### • Binary Lightweight Neural Networks for Arbitrary Scale Super-Resolution of Remote Sensing Images.[\[PDF\]]()
+_Yufeng Wang, Huayu Zhang, Xianlin Zeng, Bowen Wang, Wei Li, Wenrui Ding_
+
+##### • Binary Quantization Vision Transformer for Effective Segmentation of Red Tide in Multispectral Remote Sensing Imagery.[\[PDF\]](https://rgu-repository.worktribe.com/preview/2702534/XIE%202025%20Binary%20quantization%20vision%20%28AAM%29.pdf)
+_Yefan Xie, Xuan Hou, Jinchang Ren, Xinchao Zhang, Chengcheng Ma, Jiangbin Zheng_
+
+
 ### IJCV
 [\[back to top\]](#contents)
+
+##### • Stochastic Quantization for Learning Accurate Low-Bit Deep Neural Networks.[\[PDF\]]()
+_Yinpeng Dong, Renkun Ni, Jianguo Li, Yurong Chen, Hang Su , Jun Zhu _
+
+##### • Bi-Real Net: Binarizing Deep Network Towards Real-Network Performance.[\[PDF\]](https://arxiv.org/pdf/1811.01335)
+_Zechun Liu, Wenhan Luo, Baoyuan Wu, Xin Yang, Wei Liu, Kwang-Ting Cheng_
+
+##### • Hardware-Centric AutoML for Mixed-Precision Quantization.[\[PDF\]](https://arxiv.org/pdf/2008.04878)
+_Kuan Wang, Zhijian Liu, Yujun Lin, Ji Lin, Song Han_
+
+##### • Binarized Neural Architecture Search for Efficient Object Recognition. [\[PDF\]](https://arxiv.org/pdf/2009.04247)
+_Hanlin Chen, Li’an Zhuo, Baochang Zhang, Xiawu Zheng, Jianzhuang Liu, Rongrong Ji, David Doermann, Guodong Guo_
+
+##### • Rectified Binary Convolutional Networks with Generative Adversarial Learning.[\[PDF\]]()
+_Chunlei Liu, Wenrui Ding, Yuan Hu, Baochang Zhang, Jianzhuang Liu, Guodong Guo, David Doermann_
+
+##### • Towards Compact 1-bit CNNs via Bayesian Learning.[\[PDF\]](https://drive.google.com/file/d/1XJZWZB6FxyUx7k_-JpA0lsd0hObQWN5o/view)
+_Junhe Zhao, Sheng Xu, Baochang Zhang, Jiaxin Gu, David Doermann, Guodong Guo_
+
+##### • Structured Binary Neural Networks for Image Recognition.[\[PDF\]](https://arxiv.org/pdf/1909.09934)
+_Bohan Zhuang, Chunhua Shen, Mingkui Tan, Lingqiao Liu, Ian Reid_
+
+##### • DCP-NAS: Discrepant Child-Parent Neural Architecture Search for 1-bit CNNs.[\[PDF\]](https://arxiv.org/pdf/2306.15390)
+_Yanjing Li, Sheng Xu, Xianbin Cao, Li’an Zhuo, Baochang Zhang, Tian Wang, Guodong Guo_
+
+##### • Distribution-Sensitive Information Retention for Accurate Binary Neural Network[\[PDF\]](https://arxiv.org/pdf/2109.12338)
+_Haotong Qin, Xiangguo Zhang, Ruihao
+Gong, Yifu Ding, Yi Xu, Xianglong Liu∗_
+
+##### • Advanced Binary Neural Network for Single Image Super Resolution.[\[PDF\]]()
+_Jingwei Xin, Nannan Wang, Xinrui Jiang, Jie Li, Xinbo Gao _
+
+##### • Learning Generalizable Mixed-Precision Quantization via Attribution Imitation.[\[PDF\]](https://ziweiwangthu.github.io/data/R-GMPQ.pdf)
+_Ziwei Wang, Han Xiao, Jie Zhou, Jiwen Lu_
+
 
 ### Others
 [\[back to top\]](#contents)
@@ -63,14 +180,84 @@ A curated list of related resources for binary neural network.
 #### TIP
 [\[back to top\]](#contents)
 
+##### • Embarrassingly Simple Binarization for Deep Single Imagery Super-Resolution Networks.[\[PDF\]]()
+_Lei Zhang, Zhiqiang Lang, Wei Wei, Yanning Zhang_
+
+##### • E2FIF: Push the Limit of Binarized Deep Imagery Super-Resolution Using End-to-End Full-Precision Information Flow. [\[PDF\]](https://arxiv.org/pdf/2207.06893)
+_Chongxing Song, Zhiqiang Lang, Wei Wei, Lei Zhang_
+
+##### • FABNet: Frequency-Aware Binarized Network for Single Image Super-Resolution.[\[PDF\]]()
+_Xinrui Jiang, Nannan Wang, Jingwei Xin, Keyu Li, Xi Yang, Jie Li_
+
+
 #### TMM
 [\[back to top\]](#contents)
+
+##### • Compact Hash Code Learning With Binary Deep Neural Network.[\[PDF\]](https://arxiv.org/pdf/1712.02956)
+_Thanh-Toan Do, Tuan Hoang, Dang-Khoa Le Tan, Anh-Dzung Doan, Ngai-Man Cheung_
+
+##### • Iterative Deep Neural Network Quantization With Lipschitz Constraint.[\[PDF\]]()
+_Yuhui Xu, Wenrui Dai, Yingyong Qi, Junni Zou, Hongkai Xiong_
+
+##### • Residual Quantization for Low Bit-Width Neural Networks.[\[PDF\]]()
+_Zefan Li, Bingbing Ni, Xiaokang Yang, Wenjun Zhang, Wen Gao_
+
+##### • Cellular Binary Neural Network for Accurate Image Classification and Semantic Segmentation. [\[PDF\]]()
+_Xichuan Zhou, Rui Ding, Yuxiao Wang, Wenjia Wei, Haijun Liu_
+
 
 #### TCSVT
 [\[back to top\]](#contents)
 
+##### • RB-Net: Training Highly Accurate and Efficient Binary Neural Networks With Reshaped Point-Wise Convolution and Balanced Activation.[\[PDF\]](https://www.researchgate.net/profile/Yuqi-Han/publication/359928067_RB-Net_Training_Highly_Accurate_and_Efficient_Binary_Neural_Networks_with_Reshaped_Point-wise_Convolution_and_Balanced_Activation/links/63f7255b0d98a97717ae0cd8/RB-Net-Training-Highly-Accurate-and-Efficient-Binary-Neural-Networks-With-Reshaped-Point-Wise-Convolution-and-Balanced-Activation.pdf)
+_Chunlei Liu, Wenrui Ding, Peng Chen, Bohan Zhuang, Yufeng Wang, Yang Zhao, Baochang Zhang, Yuqi Han_
+
+##### • Improving Extreme Low-Bit Quantization With Soft Threshold. [\[PDF\]](https://drive.google.com/file/d/1pVt6yjXaBFwCnr1LBkWjZTQA1WUlbU8O/view)
+_Weixiang Xu, Fanrong Li, Yingying Jiang, A Yong, Xiangyu He, Peisong Wang, Jian Cheng_
+
+##### • Joint-Guided Distillation Binary Neural Network via Dynamic Channel-Wise Diversity Enhancement for Object Detection.[\[PDF\]]()
+_Yefan Xie, Xuan Hou, Yanwei Guo, Xiuying Wang, Jiangbin Zheng_
+
+##### • Binarizing by Classification: Is Soft Function Really Necessary?[\[PDF\]](https://arxiv.org/pdf/2205.07433)
+_Yefei He, Luoming Zhang, Weijia Wu, Hong Zhou_
+
+##### • Towards Video Anomaly Detection in the Real World: A Binarization Embedded Weakly-Supervised Network. [\[PDF\]]()
+_Zhen Yang, Yuanfang Guo, Junfu Wang, Di Huang, Xiuguo Bao, Yunhong Wang_
+
+##### • Universal Binary Neural Networks Design by Improved Differentiable Neural Architecture Search.[\[PDF\]]()
+_Menghao Tan, Weifeng Gao, Hong Li, Jin Xie, Maoguo Gong_
+
+##### • Improving the Post-Training Neural Network Quantization by Prepositive Feature Quantization.[\[PDF\]]()
+_Tianshu Chu, Zuopeng Yang, Xiaolin Huang_
+
+##### • BinaryViT: Toward Efficient and Accurate Binary Vision Transformers.[\[PDF\]]()
+_Junrui Xiao, Zhikai Li, Jianquan Li, Lianwei Yang, Qingyi Gu_
+
+
 #### PR
 [\[back to top\]](#contents)
+
+##### • Binary neural networks: A survey.[\[PDF\]](https://arxiv.org/pdf/2004.03333)
+_Haotong Qin, Ruihao Gong, Xianglong Liu, Xiao Baie,Jingkuan Song, Nicu Sebe_
+
+##### • Deep quantization generative networks.[\[PDF\]]()
+_Diwen Wan, Fumin Shen, Li Liu,Fan Zhu, Lei Huang, Mengyang Yu,Heng Tao Shen, Ling Shao_
+
+##### • A gradient optimization and manifold preserving based binary neural network for point cloud[\[PDF\]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4231478)
+_Zhi Zhao, Ke Xu, Yanxin Ma, Jianwei Wan_
+
+##### • Bayesian asymmetric quantized neural networks[\[PDF\]](https://www.sciencedirect.com/science/article/pii/S0031320323001632)
+_Jen-Tzung Chien, Su-Ting Chang_
+
+##### • Diluted binary neural network[\[PDF\]]()
+_Yuhan Lin, Lingfeng Niu, Yang Xiao, Ruizhi Zhou_
+
+##### • MBQuant: A novel multi-branch topology method for arbitrary bit-width network quantization.[\[PDF\]](https://arxiv.org/pdf/2305.08117)
+_Yunshan Zhong, Yuyao Zhoub, Fei Chao, Rongrong Ji_
+
+##### • NAS-BNN: Neural Architecture Search for Binary Neural Networks[\[PDF\]](https://arxiv.org/pdf/2408.15484)
+_Zhihao Lin, Yongtao Wang, Jinhe Zhang, Xiaojie Chu, Haibin Ling_
+
 
 =============================================================
 
@@ -349,13 +536,11 @@ _Hyungjun Kim, Jihoon Park, Changhun Lee, Jae-Joon Kim_
 ##### • Binary Graph Neural Networks.[\[PDF\]](http://openaccess.thecvf.com/content/CVPR2021/papers/Bahri_Binary_Graph_Neural_Networks_CVPR_2021_paper.pdf)
 _Mehdi Bahri,Ga ́etan Bahl,Stefanos Zafeiriou_
 
-##### • Permute, Quantize, and Fine-Tune: Efficient Compression of Neural Networks. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Martinez_Permute_Quantize_and_Fine-Tune_Efficient_Compression_of_Neural_Networks_CVPR_2021_paper.pdf)[\[Code\]](https://github.com/uber-research/
-permute-quantize-finetune.)
+##### • Permute, Quantize, and Fine-Tune: Efficient Compression of Neural Networks. [\[PDF\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Martinez_Permute_Quantize_and_Fine-Tune_Efficient_Compression_of_Neural_Networks_CVPR_2021_paper.pdf)[\[Code\]](https://github.com/uber-research/permute-quantize-finetune.)
 _Julieta Martinez, Jashan Shewakramani, Ting-Wu Liu, Ioan Andrei Barsan, Wenyuan Zeng, Raquel Urtasun_
 
 ##### • Pareto-Optimal Quantized ResNet Is Mostly 4-Bit.[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2021W/ECV/papers/Abdolrashidi_Pareto-Optimal_Quantized_ResNet_Is_Mostly_4-Bit_CVPRW_2021_paper.pdf)[\[Code\]](https://github.com/google-research/google-research/tree/master/aqt.)
-_AmirAli Abdolrashidi, Lisa Wang,
-Shivani Agrawal, Jonathan Malmaud, Oleg Rybakov, Chas Leichner, Lukasz Lew_
+_AmirAli Abdolrashidi, Lisa Wang, Shivani Agrawal, Jonathan Malmaud, Oleg Rybakov, Chas Leichner, Lukasz Lew_
 
 ##### • BCNN: A Binary CNN With All Matrix Ops Quantized to 1 Bit Precision.[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2021W/BiVision/papers/Redfern_BCNN_A_Binary_CNN_With_All_Matrix_Ops_Quantized_to_CVPRW_2021_paper.pdf)
 _Arthur J. Redfern, Lijun Zhu, Molly K. Newquist_
@@ -392,7 +577,7 @@ _Adrian Bulat, Georgios Tzimiropoulos_
 ##### • Meta-Aggregator: Learning to Aggregate for 1-bit Graph Neural Networks[\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Meta-Aggregator_Learning_To_Aggregate_for_1-Bit_Graph_Neural_Networks_ICCV_2021_paper.pdf)
 _Yongcheng Jing, Yiding Yang, Xinchao Wang, Mingli Song, Dacheng Tao_
 
-##### • Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks.[\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Sub-Bit_Neural_Networks_Learning_To_Compress_and_Accelerate_Binary_Neural_ICCV_2021_paper.pdf)[\[Code\]](https://github.com/yikaiw/SNN .)
+##### • Sub-bit Neural Networks: Learning to Compress and Accelerate Binary Neural Networks.[\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Sub-Bit_Neural_Networks_Learning_To_Compress_and_Accelerate_Binary_Neural_ICCV_2021_paper.pdf)[\[Code\]](https://github.com/yikaiw/SNN.)
 _Yikai Wang, Yi Yang, Fuchun Sun, Anbang Yao_
 
 ##### • Cluster-Promoting Quantization with Bit-Drop for Minimizing Network Quantization Loss[\[PDF\]](https://openaccess.thecvf.com/content/ICCV2021/papers/Lee_Cluster-Promoting_Quantization_With_Bit-Drop_for_Minimizing_Network_Quantization_Loss_ICCV_2021_paper.pdf)
@@ -550,7 +735,7 @@ _Brais Martinez, Jing Yang, Adrian Bulat, Georgios Tzimiropoulos_
 _George Stamatescu, Ian Fuss , Langford B. White, Federica Gerace, Carlo Lucibello_
 
 ##### • And the Bit Goes Down: Revisiting the Quantization of Neural Networks.[\[PDF\]](https://arxiv.org/pdf/1907.05686)
-_Pierre Stock, Armand Joulin, R ́emi Gribonval, Benjamin Graham, Herv ́e J ́egou _
+_Pierre Stock, Armand Joulin, R ́emi Gribonval, Benjamin Graham, Herv ́e J ́egou_
 
 
 ### 2020 AAAI
