@@ -87,8 +87,7 @@ A curated list of related resources for binary neural network.
 ##### • A&B BNN: Add&Bit-Operation-Only Hardware-Friendly Binary Neural Network.[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Ma_AB_BNN_AddBit-Operation-Only_Hardware-Friendly_Binary_Neural_Network_CVPR_2024_paper.pdf)
 _Ruichen Ma, Guanchao Qiao, Yian Liu, Liwei Meng, Ning Ning, Yang Liu, Shaogang Hu_
 
-##### • BiPer: Binary Neural Networks Using a Periodic Function. [\[PDF\]](http://openaccess.thecvf.com/content/CVPR2024/papers/Vargas_BiPer_Binary_Neural_Networks_using_a_Periodic_Function_CVPR_2024_paper.pdf)[\[Code\]](https://github.com/
-edmav4/BiPer.)
+##### • BiPer: Binary Neural Networks Using a Periodic Function. [\[PDF\]](http://openaccess.thecvf.com/content/CVPR2024/papers/Vargas_BiPer_Binary_Neural_Networks_using_a_Periodic_Function_CVPR_2024_paper.pdf)[\[Code\]](https://github.com/edmav4/BiPer.)
 _Edwin Vargas, Claudia V. Correa, Carlos Hinojosa, Henry Arguello_
 
 ##### • Efficient Multitask Dense Predictor via Binarization.[\[PDF\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Shang_Efficient_Multitask_Dense_Predictor_via_Binarization_CVPR_2024_paper.pdf)[\[Code\]](https://github.com/42Shawn/BiMTDP)
