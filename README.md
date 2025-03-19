@@ -62,13 +62,13 @@ A curated list of related resources for binary neural network.
 ### Conference Papers
 [\[back to top\]](#contents)
 
-#### arXiv Papers
+#### 2025-others
 [\[back to top\]](#contents)
 
-#### arXiv Papers
+#### 2024-cvpr
 [\[back to top\]](#contents)
 
-#### arXiv Papers
+#### 2024-neurips
 [\[back to top\]](#contents)
 
 =================================================
