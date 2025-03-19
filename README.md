@@ -33,15 +33,17 @@ A curated list of related resources for binary neural network.
 ## Applications
 
 ## Surveys \& Workshop \& Tutorials
-----------------------------------------------------------
-## Paper List
 
+## Paper List
+----------------------------------------------------------
 ### Evaluation
 [\[back to top\]](#contents)
 
+----------------------------------------------------------
 ### arXiv Papers
 [\[back to top\]](#contents)
 
+=========================================================
 
 ### Journal Papers
 [\[back to top\]](#contents)
@@ -55,6 +57,7 @@ A curated list of related resources for binary neural network.
 #### Others
 [\[back to top\]](#contents)
 
+=============================================================
 
 ### Conference Papers
 [\[back to top\]](#contents)
@@ -68,6 +71,7 @@ A curated list of related resources for binary neural network.
 #### arXiv Papers
 [\[back to top\]](#contents)
 
+=================================================
 ### Theses
 [\[back to top\]](#contents)
 
